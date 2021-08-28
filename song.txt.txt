@@ -1,2 +1,4 @@
 hello world!
 hello elvin
+new hello
+my hello
